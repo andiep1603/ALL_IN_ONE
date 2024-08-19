@@ -5,7 +5,7 @@ echo ""
 
 rm -rf run_log.txt
 rm -rf *vvp *vcd
-rm -rf *.gtkw
+#rm -rf *.gtkw
 #rm -rf *.rc
 
 rm -rf *.log INCA_libs verdiLog novas* ncverilog* ./dump/*.fsdb
